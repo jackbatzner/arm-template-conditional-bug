@@ -1,6 +1,10 @@
 # step 1
 
+Create resource group
+
+```
 az group create --location westus --resource-group test-deploy   
+```
 
 # step 2
 
